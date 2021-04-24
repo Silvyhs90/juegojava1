@@ -1,2 +1,2 @@
 # juegojava1
-Juego hecho para el final de la materia introduccion a la programacion java
+Juego de preguntas y respuestas EN JAVA, IDE: Netbeans
